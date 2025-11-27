@@ -1,0 +1,14 @@
+css/woocommerce-layout.css
+css/woocommerce-smallscreen.css
+css/woocommerce.css
+js/jquery-blockui/jquery.blockUI.min.js
+js/frontend/add-to-cart.min.js
+js/js-cookie/js.cookie.min.js
+js/frontend/woocommerce.min.js
+fonts/Inter-VariableFont_slnt,wght.woff2
+client/blocks/wc-blocks.css
+css/select2.css
+js/sourcebuster/sourcebuster.min.js
+js/frontend/order-attribution.min.js
+js/select2/select2.full.min.js
+js/photoswipe/photoswipe.min.js

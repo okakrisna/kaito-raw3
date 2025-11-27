@@ -1,0 +1,11 @@
+build/css/acf-global.css
+build/css/acf-input.css
+build/css/pro/acf-pro-input.css
+inc/datepicker/jquery-ui.min.css
+inc/timepicker/jquery-ui-timepicker-addon.min.css
+build/js/acf.min.js
+build/js/acf-input.min.js
+build/js/pro/acf-pro-input.min.js
+build/js/pro/acf-pro-ui-options-page.min.js
+inc/timepicker/jquery-ui-timepicker-addon.min.js
+inc/color-picker-alpha/wp-color-picker-alpha.js

@@ -1,0 +1,16 @@
+addons/comment-kit/css/wdp_style.css
+assets/css/wdp-centered-timeline.min.css
+assets/css/wdp-horizontal-styles.min.css
+assets/css/wdp-fontello.css
+assets/css/exad-styles.min.css
+assets/css/wdp.css
+addons/comment-kit/js/wdp_script.js
+addons/comment-kit/js/libs/jquery.jPages.min.js
+addons/comment-kit/js/libs/jquery.textareaCounter.js
+addons/comment-kit/js/libs/jquery.placeholder.min.js
+addons/comment-kit/js/libs/autosize.min.js
+assets/js/wdp-swiper.min.js
+assets/js/qr-code.js
+assets/js/wdp-horizontal.js
+assets/js/exad-scripts.min.js
+assets/js/wdp.min.js

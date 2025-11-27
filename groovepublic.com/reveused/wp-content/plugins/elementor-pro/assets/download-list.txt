@@ -1,0 +1,8 @@
+css/frontend.min.css
+js/page-transitions.min.js
+lib/instant-page/instant-page.min.js
+lib/sticky/jquery.sticky.min.js
+lib/lottie/lottie.min.js
+js/webpack-pro.runtime.min.js
+js/frontend.min.js
+js/elements-handlers.min.js
