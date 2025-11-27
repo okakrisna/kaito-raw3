@@ -1,0 +1,15 @@
+css/dashicons.min.css
+js/jquery/jquery.min.js
+js/jquery/jquery-migrate.min.js
+css/editor.min.css
+css/buttons.min.css
+js/jquery/ui/core.min.js
+js/jquery/ui/mouse.min.js
+js/jquery/ui/sortable.min.js
+js/jquery/ui/resizable.min.js
+js/dist/dom-ready.min.js
+js/dist/hooks.min.js
+js/dist/i18n.min.js
+js/dist/a11y.min.js
+js/jquery/ui/datepicker.min.js
+js/jquery/ui/draggable.min.js

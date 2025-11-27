@@ -1,0 +1,15 @@
+lib/eicons/css/elementor-icons.min.css
+css/frontend.min.css
+lib/swiper/v8/css/swiper.min.css
+lib/font-awesome/css/all.min.css
+lib/font-awesome/css/v4-shims.min.css
+lib/font-awesome/css/fontawesome.min.css
+lib/font-awesome/css/brands.min.css
+lib/font-awesome/css/solid.min.css
+lib/font-awesome/css/regular.min.css
+lib/font-awesome/js/v4-shims.min.js
+lib/animations/animations.min.css
+js/webpack.runtime.min.js
+js/frontend-modules.min.js
+lib/waypoints/waypoints.min.js
+js/frontend.min.js
